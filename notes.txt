@@ -1,1 +1,2 @@
 Subject: VCS | Topic: Git basics
+New feature: Campus subject notes.
